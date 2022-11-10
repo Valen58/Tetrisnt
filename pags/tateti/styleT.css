@@ -1,0 +1,46 @@
+*{
+    list-style: none;
+    font-size: 20px;
+    font-family: 'Manrope', sans-serif;
+    margin: 0%;
+}
+
+header{
+    background-color: rgb(52, 114, 248);
+}
+
+.logo{
+    display: flex;
+    align-items: flex-end;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    display: flex;
+}
+
+.link{
+    margin: 100px;
+    color: white;
+    text-decoration: none;
+}
+
+.titulo{
+    text-decoration: dashed;
+}
+
+.contenedor{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.tablero{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+}

@@ -1,0 +1,66 @@
+*{
+    text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+    margin: 0;
+}
+
+/* Home */
+.supertit {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(52, 114, 248);
+    position: sticky; /* porque cuando bajo no se mantiene la barra? */
+    top: 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.imgPres{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    border: black solid 2px;
+}
+
+.contenedor1{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.contenedor2{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.cont1{
+    flex-direction: column;
+    padding: 50px;
+}
+.cont2{
+    flex-direction: column;
+    padding: 50px;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    border: black solid 2px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 30px;
+}

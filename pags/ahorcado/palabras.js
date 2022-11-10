@@ -1,0 +1,2 @@
+const words = ['Valentin','Julia','Leon','Juan','Carne','Martillo', 'Lavadora','Sucio','Cangrejo','Lento','Alimentos','Delgado','Cubo','Comida','Caracol','Abajo','Alumno','Bonito','Cesta','Sol','Beber','Botella','Hamburguesa','Invierno','Gusano','Bolivia','Peru','Papa','Teclado','Monitor'];
+//opcional: agregar mas palabras
